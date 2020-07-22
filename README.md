@@ -11,4 +11,7 @@
 [![Website](https://img.shields.io/badge/-guitton.co-191b1f?style=flat-square&labelColor=191b1f&logo=ghost&logoColor=white&link=https://guitton.co/)](https://guitton.co/)
 [![Twitter Badge](https://img.shields.io/badge/-@louis_guitton-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/louis_guitton)](https://twitter.com/louis_guitton)
 [![Linkedin Badge](https://img.shields.io/badge/-louisguitton-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/louisguitton/)](https://www.linkedin.com/in/louisguitton/) 
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Flouisguitton%2Flouisguitton)
+
+
+<!--- Google Analytics Pixel Tracker -->
+<img src="www.google-analytics.com/collect?v=1&t=pageview&tid=UA-140255752-1&dh=github.com&dp=https%3A%2F%2Fgithub.com%2Flouisguitton" />
