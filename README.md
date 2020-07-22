@@ -14,4 +14,4 @@
 
 
 <!--- Google Analytics Pixel Tracker -->
-<img src="www.google-analytics.com/collect?v=1&t=pageview&tid=UA-140255752-1&dh=github.com&dp=https%3A%2F%2Fgithub.com%2Flouisguitton" />
+<img src="https://www.google-analytics.com/collect?v=1&t=pageview&tid=UA-140255752-1&dh=github.com&dp=https%3A%2F%2Fgithub.com%2Flouisguitton" />
